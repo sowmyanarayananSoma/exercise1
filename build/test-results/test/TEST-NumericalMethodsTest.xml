@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NumericalMethodsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-29T01:13:23" hostname="TRIOS-QLSDQG4RH" time="0.023">
+  <properties/>
+  <testcase name="testPalindrome()" classname="NumericalMethodsTest" time="0.022"/>
+  <testcase name="testSquare()" classname="NumericalMethodsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
